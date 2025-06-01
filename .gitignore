@@ -405,3 +405,6 @@ WebAppTest11/Web.config
 
 # Ignore Web.config (tehty itse)
 WebAppTest11/WebAppTest11/Web.config
+
+# Ignore Web.config (tehty itse, kaikki versiot web.config)
+**/Web.config
